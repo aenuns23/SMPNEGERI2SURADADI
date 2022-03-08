@@ -3,7 +3,18 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_buku7.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_buku8.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_buku9.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_ekskul.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_fasilitas.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_guru.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_perpus.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_prestasi.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_profil.xml" value="0.25" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_splash_screen.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/slider_item.xml" value="0.15555555555555556" />
       </map>
     </option>
   </component>
