@@ -100,7 +100,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Status : Swasta"
+                            android:text="Status : Negeri"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -110,7 +110,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Status Kepemilikan : Yayasan"
+                            android:text="Status Kepemilikan : Pemerintah"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -160,7 +160,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Alamat : Jl. KH. Jueni Karanganyar"
+                            android:text="Alamat : Jl. Bulakbanteng"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -180,7 +180,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Kode Pos : 52192"
+                            android:text="Kode Pos : 52182"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -407,7 +407,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Cabang KCP/Unit : BPD JAWA TENGAH CABANG SLAWI..."
+                            android:text="Cabang KCP/Unit : BPD JAWA TENGAH CABANG SLAWI"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -417,7 +417,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Rekening Atas Nama : SMPMUHAMMADIYAHDUKUHTURI"
+                            android:text="Rekening Atas Nama : SMPNEGERI2SURADADI"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -427,7 +427,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Sertifikasi ISO : Belum Bersertifikat"
+                            android:text="Sertifikasi ISO : Sudah Bersertifikat"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />
@@ -457,7 +457,7 @@
                             android:layout_height="wrap_content"
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="12dp"
-                            android:text="Akses Internet : Tidak Ada"
+                            android:text="Akses Internet : Ada"
                             android:textColor="#000"
                             android:textSize="12sp"
                             android:textStyle="bold" />

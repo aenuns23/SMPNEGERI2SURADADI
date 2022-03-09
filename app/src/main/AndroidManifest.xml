@@ -10,9 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2SURADADI">
         <activity
-            android:name=".SplashScreenActivity"
-            android:exported="false" />
-        <activity
             android:name=".Buku9Activity"
             android:exported="false" />
         <activity
@@ -20,6 +17,24 @@
             android:exported="false" />
         <activity
             android:name=".Buku7Activity"
+            android:exported="false" />
+        <activity
+            android:name=".BulutangkisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".FutsalActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PmrActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PramukaActivity"
+            android:exported="false" />
+        <activity
+            android:name=".OsisActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
             android:exported="false" />
         <activity
             android:name=".FasilitasActivity"
@@ -40,7 +55,7 @@
             android:name=".ProfilActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name=".SplashScreenActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
