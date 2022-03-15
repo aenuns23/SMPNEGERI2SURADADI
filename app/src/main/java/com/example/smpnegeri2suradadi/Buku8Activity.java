@@ -16,43 +16,43 @@ public class Buku8Activity extends AppCompatActivity {
     }
 
     public void mtk8(View view) {
-        goToUrl("https://drive.google.com/file/d/1QXpoCmuE9qx2lxvllD5u2nntsGpC6zUQ/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1U3NTQWTF2NBVtuk_hakHouzUJV4Af7FA/view?usp=sharing");
     }
 
     public void ipa8(View view) {
-        goToUrl("https://drive.google.com/file/d/1IVlMAu5WvVR5WCMfXqzqXmyJfEN1KViQ/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1TxMrzAmD_VAgo50tpFW3roYoZK6iUf_6/view?usp=sharing");
     }
 
     public void prakarya8(View view) {
-        goToUrl("https://drive.google.com/file/d/1QDSKJmU-TBtyPsthsk4xDOcyePCDqlMi/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1VdwP4T_i729bJRqSwLW_zCsFtmey6KD4/view?usp=sharing");
     }
 
     public void bind8(View view) {
-        goToUrl("https://drive.google.com/file/d/1QJi9YctnB1aac2WLgm7j-7jEA-vzfwDQ/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1TslxrtBmz_m4VCa7IlewKWjbQj2GTcSz/view?usp=sharing");
     }
 
     public void bing8(View view) {
-        goToUrl("https://drive.google.com/file/d/1QMN-DaOtw7rA5IzRLBCLsljKgvxc3hMs/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1TtzAclXmXX-wEJXgk3_HVWtcuWVDXrqq/view?usp=sharing");
     }
 
     public void pai8(View view) {
-        goToUrl("https://drive.google.com/file/d/1QbEAk6y-Veee89ga4J9AQyC1xJ-4fmfo/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1VtvtHEMD9N0t_rg40CaB_wnC1ZyBBPl3/view?usp=sharing");
     }
 
     public void ppkn8(View view) {
-        goToUrl("https://drive.google.com/file/d/1IHQihHJPuT2Wjv6whNvwtgcXDXX_pjMO/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1WiuFjy6XwtWfPUKcWdNAn-WEGPW0dC7R/view?usp=sharing");
     }
 
     public void pjok8(View view) {
-        goToUrl("https://drive.google.com/file/d/1IH2zX5IZNIUUjL-xHT3eOS2HE8QJDipw/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1UI6h7y3c1ISx1wg32siJARstFtEoYSLr/view?usp=sharing");
     }
 
     public void sbk8(View view) {
-        goToUrl("https://drive.google.com/file/d/1QkM2zZghoT0BJUKLZF2Bc42hwqwiy3G0/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1VsHDDRYLcBAWj0DyhPazXy-urnHiK6kW/view?usp=sharing");
     }
 
     public void ips8(View view) {
-        goToUrl("https://drive.google.com/file/d/1QTT70ghMSve9x1N8VKC14BUzWfJJhcrR/view?usp=sharing");
+        goToUrl("https://drive.google.com/file/d/1VdtC2d8igkOYX1IAC8dteOyvWJyZoxtL/view?usp=sharing");
     }
     private void goToUrl (String url) {
         Uri uriUrl = Uri.parse(url);

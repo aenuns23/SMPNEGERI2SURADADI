@@ -16,6 +16,7 @@ public class PerpusActivity extends AppCompatActivity {
     int[] images = {
             R.drawable.membaca1,
             R.drawable.perpustakaan,
+            R.drawable.kurtilas,
             R.drawable.membaca1,
             R.drawable.perpustakaan};
 

@@ -14,9 +14,8 @@ public class EkskulActivity extends AppCompatActivity {
     SliderView sliderView;
     int[] images = {R.drawable.ekskul1,
             R.drawable.ekskul2,
-            R.drawable.ekskul1,
-            R.drawable.ekskul2,
-            R.drawable.ekskul1,
+            R.drawable.ekskul3,
+            R.drawable.ekskul4,
     };
 
     @Override
