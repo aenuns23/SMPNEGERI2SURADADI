@@ -32,7 +32,7 @@ public class GaleriActivity extends AppCompatActivity {
     }
 
     public void albumosis(View view) {
-        Intent intent = new Intent(GaleriActivity.this, AlbumOsisActivity.class);
+        Intent intent = new Intent(GaleriActivity.this, AlbumEkskulActivity.class);
         startActivity(intent);
     }
 
@@ -42,7 +42,7 @@ public class GaleriActivity extends AppCompatActivity {
     }
 
     public void albumpmr(View view) {
-        Intent intent = new Intent(GaleriActivity.this, AlbumPmrActivity.class);
+        Intent intent = new Intent(GaleriActivity.this, AlbumNewNormalActivity.class);
         startActivity(intent);
     }
 }

@@ -5,18 +5,21 @@
       <map>
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_album_pmr.xml" value="0.19010416666666666" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_album_pramuka.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_albumekskul.xml" value="0.1574074074074074" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_albumhutri.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_albumnewnormal.xml" value="0.1574074074074074" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_albumpmr.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_albumpramuka.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_buku7.xml" value="0.1" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_buku8.xml" value="0.15555555555555556" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_buku9.xml" value="0.15555555555555556" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_bulutangkis.xml" value="0.1425925925925926" />
-        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_ekskul.xml" value="0.25" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_ekskul.xml" value="0.22" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_fasilitas.xml" value="0.11" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_futsal.xml" value="0.1425925925925926" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_galeri.xml" value="0.1" />
-        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_guru.xml" value="0.15555555555555556" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_guru.xml" value="0.1" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_jurnalistik.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_osis.xml" value="0.1425925925925926" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_perpus.xml" value="0.15555555555555556" />
@@ -24,7 +27,7 @@
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_pramuka.xml" value="0.1425925925925926" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_prestasi.xml" value="0.18" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_profil.xml" value="0.33" />
-        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_splash_screen.xml" value="0.22" />
+        <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/activity_splash_screen.xml" value="0.2" />
         <entry key="..\:/Users/YPT/AndroidStudioProjects/SMPNEGERI2SURADADI/app/src/main/res/layout/slider_item.xml" value="0.15555555555555556" />
       </map>
     </option>

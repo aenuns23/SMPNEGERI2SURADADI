@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AlbumOsisActivity">
+    tools:context=".AlbumNewNormalActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -29,15 +29,15 @@
 
                     <ImageView
                         android:layout_width="400dp"
-                        android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/prestasi1" />
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/prestasi2"/>
 
                 </LinearLayout>
 
                 <RelativeLayout
                     android:layout_width="7dp"
-                    android:layout_height="match_parent" />
+                    android:layout_height="match_parent"/>
 
                 <LinearLayout
                     android:layout_width="wrap_content"
@@ -47,15 +47,15 @@
 
                     <ImageView
                         android:layout_width="400dp"
-                        android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/prestasi2" />
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/pretasisd"/>
 
                 </LinearLayout>
 
                 <RelativeLayout
                     android:layout_width="7dp"
-                    android:layout_height="match_parent" />
+                    android:layout_height="match_parent"/>
 
             </LinearLayout>
         </HorizontalScrollView>
@@ -70,32 +70,32 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="12dp"
-                android:layout_marginTop="5dp"
-                android:layout_marginRight="12dp">
+                android:layout_marginRight="12dp"
+                android:layout_marginTop="5dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="PERAYAAN HUT RI"
+                    android:layout_marginTop="5dp"
                     android:textColor="#000"
                     android:textSize="10sp"
-                    android:textStyle="bold" />
+                    android:textStyle="bold"
+                    android:text="PELANTIKAN PMR MADYA"/>
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginTop="20dp"
                     android:layout_marginRight="5dp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "
                     android:textAlignment="center"
+                    android:layout_marginTop="20dp"
                     android:textColor="#000"
-                    android:textSize="10sp" />
+                    android:textSize="10sp"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "/>
 
             </androidx.cardview.widget.CardView>
 

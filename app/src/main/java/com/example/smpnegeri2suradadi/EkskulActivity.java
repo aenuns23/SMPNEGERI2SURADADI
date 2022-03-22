@@ -57,4 +57,10 @@ public class EkskulActivity extends AppCompatActivity {
         Intent intent = new Intent(EkskulActivity.this, BulutangkisActivity.class);
         startActivity(intent);
     }
+
+    public void jurnalistik(View view) {
+        Intent intent = new Intent(EkskulActivity.this, JurnalistikActivity.class);
+        startActivity(intent);
+
+    }
 }

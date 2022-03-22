@@ -12,13 +12,16 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2SURADADI">
         <activity
-            android:name=".AlbumPmrActivity"
+            android:name=".JurnalistikActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AlbumNewNormalActivity"
             android:exported="false" />
         <activity
             android:name=".AlbumPramukaActivity"
             android:exported="false" />
         <activity
-            android:name=".AlbumOsisActivity"
+            android:name=".AlbumEkskulActivity"
             android:exported="false" />
         <activity
             android:name=".GaleriActivity"
