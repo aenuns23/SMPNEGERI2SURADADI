@@ -100,7 +100,8 @@
                                         android:layout_gravity="center"
                                         android:layout_marginLeft="50dp"
                                         android:text="ORGANISASI OSIS"
-                                        android:textStyle="bold">
+                                        android:textStyle="bold"
+                                        android:textColor="@color/white">
 
                                     </TextView>
                                 </LinearLayout>
@@ -169,7 +170,7 @@
                                     android:layout_height="match_parent"
                                     android:layout_gravity="center"
                                     android:orientation="horizontal"
-                                    android:background="#3984F4">
+                                    android:background="#0EAAFD">
 
                                     <ImageView
                                         android:layout_width="100dp"
@@ -188,7 +189,8 @@
                                         android:layout_gravity="center"
                                         android:layout_marginLeft="50dp"
                                         android:text="ORGANISASI PMR"
-                                        android:textStyle="bold">
+                                        android:textStyle="bold"
+                                        android:textColor="@color/white">
 
                                     </TextView>
                                 </LinearLayout>
@@ -213,7 +215,7 @@
                                     android:layout_height="match_parent"
                                     android:layout_gravity="center"
                                     android:orientation="horizontal"
-                                    android:background="#46F64F">
+                                    android:background="#5B64FB">
 
                                     <ImageView
                                         android:layout_width="100dp"
@@ -232,7 +234,8 @@
                                         android:layout_gravity="center"
                                         android:layout_marginLeft="50dp"
                                         android:text="FUTSAL"
-                                        android:textStyle="bold">
+                                        android:textStyle="bold"
+                                        android:textColor="@color/white">
 
                                     </TextView>
                                 </LinearLayout>
@@ -299,7 +302,8 @@
                                     android:layout_width="match_parent"
                                     android:layout_height="match_parent"
                                     android:layout_gravity="center"
-                                    android:orientation="horizontal">
+                                    android:orientation="horizontal"
+                                    android:background="#FFA435">
 
                                     <ImageView
                                         android:layout_width="100dp"
