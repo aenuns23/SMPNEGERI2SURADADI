@@ -107,39 +107,8 @@
                             android:layout_marginLeft="5dp"
                             android:layout_marginRight="5dp"
                             android:textColor="#000"
-                            android:text="Bulu tangkis atau badminton (bahasa Inggris: badminton) adalah suatu olahraga yang menggunakan alat yang berbentuk bulat dengan memiliki rongga-rongga di bagian pemukulnya. Dan memiliki gagang. Alat ini dikenal dengan nama raket yang dimainkan oleh dua orang (untuk tunggal) atau dua pasangan (untuk ganda) yang saling berlawanan. Mirip dengan tenis, bulu tangkis bertujuan memukul bola permainan bulu tangkis, yaitu kok (shuttlecock) melewati jaring agar jatuh di bidang permainan lawan yang sudah ditentukan dan berusaha mencegah lawan melakukan hal yang sama.">
+                            android:text="Istilah atau kata “jurnalistik” merupakan kata serapan dari bahasa Inggris, “journalism”, yang artinya kewartawanan, dan/atau dari bahasa Belanda, journalistiek yang artinya penyiaran catatan harian . Kata dasar jurnalistik adalah “jurnal” (journal), artinya laporan atau catatan, atau “jour” (bahasa Prancis) yang berarti “hari” (day) atau “catatan harian” (diary).Jurnalisme dapat diartikan sebagai kegiatan yang mengolah informasi sebelum akhirnya di siarkan atau dipublikasikan di khalayak. Jurnalisme mengacu pada profesi seseorang yang bekerja di media, baik itu media cetak online ataupun media cetak.">
                         </TextView>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="12dp"
-                            android:textSize="12dp"
-                            android:textColor="#000"
-                            android:textStyle="bold"
-                            android:text="Jadwal Pertemuan :"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="12dp"
-                            android:textSize="12dp"
-                            android:textColor="#000"
-                            android:textStyle="bold"
-                            android:text="Hari Senin dan Rabu"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="12dp"
-                            android:textSize="12dp"
-                            android:textColor="#000"
-                            android:textStyle="bold"
-                            android:text="Pukul 13.45 - 14.05"/>
-
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
             </GridLayout>

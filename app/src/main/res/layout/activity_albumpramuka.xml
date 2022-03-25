@@ -31,7 +31,7 @@
                         android:layout_width="400dp"
                         android:adjustViewBounds="true"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/prestasi1"/>
+                        android:src="@drawable/pramuka1"/>
 
                 </LinearLayout>
 
@@ -49,7 +49,7 @@
                         android:layout_width="400dp"
                         android:adjustViewBounds="true"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/prestasismp"/>
+                        android:src="@drawable/pramuka2"/>
 
                 </LinearLayout>
 

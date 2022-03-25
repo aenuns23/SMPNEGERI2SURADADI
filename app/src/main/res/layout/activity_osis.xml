@@ -110,36 +110,6 @@
                             android:text="Organisasi Siswa Intra Sekolah (disebut OSIS) adalah Pusat Kegiatan Pembinaan Kesiswaan di sekolah untuk pengembangan minat, bakat serta potensi Siswa. OSIS adalah sebuah Lembaga Resmi satu-satunya di sekolah yang diakui oleh Kementerian Pendidikan Nasional Republik Indonesia sejak 23 Maret 1970. Lembaga ini tidak ada pada tingkat Sekolah Dasar (SD/ MI), Sekolah Menengah yaitu Sekolah Menengah Pertama (SMP/MTS) dan Sekolah Menengah Atas (SMA/SMK/MA/SLB) sederajat se-Indonesia.">
                         </TextView>
 
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="12dp"
-                            android:textSize="12dp"
-                            android:textColor="#000"
-                            android:textStyle="bold"
-                            android:text="Jadwal Pertemuan :"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="12dp"
-                            android:textSize="12dp"
-                            android:textColor="#000"
-                            android:textStyle="bold"
-                            android:text="Hari Senin dan Rabu"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:layout_marginLeft="5dp"
-                            android:layout_marginRight="12dp"
-                            android:textSize="12dp"
-                            android:textColor="#000"
-                            android:textStyle="bold"
-                            android:text="Pukul 13.45 - 14.05"/>
-
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
             </GridLayout>
