@@ -15,16 +15,28 @@ public class Buku8Activity extends AppCompatActivity {
         setContentView(R.layout.activity_buku8);
     }
 
-    public void mtk8(View view) {
+    public void mtk8smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1U3NTQWTF2NBVtuk_hakHouzUJV4Af7FA/view?usp=sharing");
     }
 
-    public void ipa8(View view) {
+    public void mtk8smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1U6Vgwdb_Xiglv3Pxn6OsWaTuiXUi4ffl/view?usp=sharing");
+    }
+
+    public void ipa8smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1TxMrzAmD_VAgo50tpFW3roYoZK6iUf_6/view?usp=sharing");
     }
 
-    public void prakarya8(View view) {
+    public void ipa8smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1U-MMg75uBOYIOmRc77Bepxr9riIrwXz1/view?usp=sharing");
+    }
+
+    public void prakarya8smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1VdwP4T_i729bJRqSwLW_zCsFtmey6KD4/view?usp=sharing");
+    }
+
+    public void prakarya8smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1Vlq9oo8qaQkNzACCgUNcmKfJRxm-oWrA/view?usp=sharing");
     }
 
     public void bind8(View view) {

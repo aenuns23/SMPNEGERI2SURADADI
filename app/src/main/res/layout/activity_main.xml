@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity"
-    android:background="#03B0F4">
+    android:background="@drawable/backprofil">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -66,7 +66,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:layout_gravity="center"
-                    android:orientation="horizontal"
                     android:background="@drawable/bagawan2">
 
                     <ImageView
@@ -298,7 +297,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/back1"
+                            android:background="@drawable/bagprof"
                             android:gravity="center"
                             android:orientation="vertical">
                             <ImageView
@@ -338,7 +337,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/back1"
+                            android:background="@drawable/bagprof"
                             android:gravity="center"
                             android:onClick="prestasi"
                             android:orientation="vertical">
@@ -389,7 +388,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/back1"
+                            android:background="@drawable/bagprof"
                             android:gravity="center"
                             android:orientation="vertical">
                             <ImageView
@@ -428,7 +427,7 @@
                         <LinearLayout
                             android:layout_width="match_parent"
                             android:layout_height="match_parent"
-                            android:background="@drawable/back1"
+                            android:background="@drawable/bagprof"
                             android:gravity="center"
                             android:onClick="daftarnama"
                             android:orientation="vertical">

@@ -19,12 +19,20 @@ public class Buku9Activity extends AppCompatActivity {
         goToUrl("https://drive.google.com/file/d/1WFP_KccRUPb3CyKmwzvb9f-AAgwM45Wu/view?usp=sharing");
     }
 
-    public void ipa9(View view) {
+    public void ipa9smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1W3tEbXUi71e6Aipc5WI_elJcMgdnI5n-/view?usp=sharing");
     }
 
-    public void prakarya9(View view) {
+    public void ipa9smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1W5l5DT3coLDPr8EpLCb0AmogF3fztWjB/view?usp=sharing");
+    }
+
+    public void prakarya9smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1WZ7UdHG4hK3GEnO5E9nCadmHJm0pcNOe/view?usp=sharing");
+    }
+
+    public void prakarya9smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1WZ8ZK5q72ypgyZe5PiW5Y0ClEmDdchtc/view?usp=sharing");
     }
 
     public void bind9(View view) {

@@ -15,16 +15,28 @@ public class Buku7Activity extends AppCompatActivity {
         setContentView(R.layout.activity_buku7);
     }
 
-    public void mtk7(View view) {
+    public void mtk7smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1QXpoCmuE9qx2lxvllD5u2nntsGpC6zUQ/view?usp=sharing");
     }
 
-    public void ipa7(View view) {
+    public void mtk7smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1R5h8H9nmJU72m9WITVZmBLdqwdnie0eV/view?usp=sharing");
+    }
+
+    public void ipa7smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1IVlMAu5WvVR5WCMfXqzqXmyJfEN1KViQ/view?usp=sharing");
     }
 
-    public void prakarya7(View view) {
+    public void ipa7smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1QNjkCap3sIVcqhwax4sjU6tJJdrNNi4I/view?usp=sharing");
+    }
+
+    public void prakarya7smt1(View view) {
         goToUrl("https://drive.google.com/file/d/1QDSKJmU-TBtyPsthsk4xDOcyePCDqlMi/view?usp=sharing");
+    }
+
+    public void prakarya7smt2(View view) {
+        goToUrl("https://drive.google.com/file/d/1Qi51Er20t455i5hlLUDs91e6r8L1OW3L/view?usp=sharing");
     }
 
     public void bind7(View view) {
