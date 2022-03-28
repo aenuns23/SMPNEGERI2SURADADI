@@ -64,4 +64,9 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, GaleriActivity.class);
         startActivity(intent);
     }
+
+    public void daftarnama(View view) {
+        Intent intent = new Intent(MainActivity.this, DaftarnamaActivity.class);
+        startActivity(intent);
+    }
 }

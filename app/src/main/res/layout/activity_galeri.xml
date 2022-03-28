@@ -167,7 +167,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logopmr">
+                            android:src="@drawable/logonewnormal">
                         </ImageView>
 
                         <TextView
