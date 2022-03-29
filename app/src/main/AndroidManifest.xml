@@ -12,6 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SMPNEGERI2SURADADI">
         <activity
+            android:name=".Kelas9Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Kelas8Activity"
+            android:exported="false" />
+        <activity
+            android:name=".Kelas7Activity"
+            android:exported="false" />
+        <activity
             android:name=".DaftarnamaActivity"
             android:exported="false" />
         <activity
