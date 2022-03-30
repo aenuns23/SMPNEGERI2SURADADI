@@ -33,7 +33,7 @@
             android:name=".AlbumPramukaActivity"
             android:exported="false" />
         <activity
-            android:name=".AlbumEkskulActivity"
+            android:name=".AlbumStudyTourActivity"
             android:exported="false" />
         <activity
             android:name=".GaleriActivity"

@@ -10,7 +10,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/bagnew">
 
         <HorizontalScrollView
             android:layout_width="wrap_content"
@@ -29,27 +30,9 @@
 
                     <ImageView
                         android:layout_width="400dp"
-                        android:adjustViewBounds="true"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/newnormal"/>
-
-                </LinearLayout>
-
-                <RelativeLayout
-                    android:layout_width="7dp"
-                    android:layout_height="match_parent"/>
-
-                <LinearLayout
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_weight="1"
-                    android:orientation="vertical">
-
-                    <ImageView
-                        android:layout_width="400dp"
                         android:adjustViewBounds="true"
-                        android:layout_height="wrap_content"
-                        android:src="@drawable/newnormal1"/>
+                        android:src="@drawable/newnormal" />
 
                 </LinearLayout>
 
@@ -65,9 +48,27 @@
 
                     <ImageView
                         android:layout_width="400dp"
-                        android:adjustViewBounds="true"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/newnormal2"/>
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/newnormal1" />
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="7dp"
+                    android:layout_height="match_parent" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/newnormal2" />
 
                 </LinearLayout>
 
@@ -85,33 +86,32 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="12dp"
-                android:layout_marginRight="12dp"
-                android:layout_marginTop="5dp">
+                android:layout_marginTop="5dp"
+                android:layout_marginRight="12dp">
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
                     android:layout_marginTop="5dp"
+                    android:layout_marginRight="5dp"
+                    android:text="ALBUM NEW NORMAL"
                     android:textColor="#000"
                     android:textSize="10sp"
-                    android:textStyle="bold"
-                    android:text="PELANTIKAN PMR MADYA"/>
+                    android:textStyle="bold" />
 
                 <TextView
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_gravity="center_horizontal"
                     android:layout_marginLeft="5dp"
-                    android:layout_marginRight="5dp"
-                    android:textAlignment="center"
                     android:layout_marginTop="20dp"
+                    android:layout_marginRight="5dp"
+                    android:text="Kenormalan baru adalah sebuah istilah dalam bisnis dan ekonomi yang merujuk kepada kondisi-kondisi keuangan usai krisis keuangan 2007–2008, resesi global 2008–2012, dan pandemi COVID-19."
+                    android:textAlignment="center"
                     android:textColor="#000"
-                    android:textSize="10sp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "/>
-
+                    android:textSize="10sp" />
             </androidx.cardview.widget.CardView>
 
         </LinearLayout>

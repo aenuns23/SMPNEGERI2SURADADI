@@ -4,11 +4,11 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class AlbumEkskulActivity extends AppCompatActivity {
+public class AlbumStudyTourActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_albumekskul);
+        setContentView(R.layout.activity_albumstudytour);
     }
 }

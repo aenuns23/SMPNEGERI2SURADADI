@@ -65,7 +65,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logoosis">
+                            android:src="@drawable/tujuh">
                         </ImageView>
 
                         <TextView
@@ -74,7 +74,8 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:text="KELAS VII"
-                            android:textStyle="bold">
+                            android:textStyle="bold"
+                            android:textSize="20dp">
 
                         </TextView>
                     </LinearLayout>
@@ -108,7 +109,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logopramuka">
+                            android:src="@drawable/delapan">
                         </ImageView>
 
                         <TextView
@@ -117,7 +118,8 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:text="KELAS VIII"
-                            android:textStyle="bold">
+                            android:textStyle="bold"
+                            android:textSize="20dp">
 
                         </TextView>
                     </LinearLayout>
@@ -150,7 +152,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logonewnormal">
+                            android:src="@drawable/sembilan">
                         </ImageView>
 
                         <TextView
@@ -159,7 +161,8 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
                             android:text="KELAS IX"
-                            android:textStyle="bold">
+                            android:textStyle="bold"
+                            android:textSize="20dp">
 
                         </TextView>
                     </LinearLayout>

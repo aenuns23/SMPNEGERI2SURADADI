@@ -31,8 +31,8 @@ public class GaleriActivity extends AppCompatActivity {
         viewFlipper.startFlipping();
     }
 
-    public void albumosis(View view) {
-        Intent intent = new Intent(GaleriActivity.this, AlbumEkskulActivity.class);
+    public void albumstudytour(View view) {
+        Intent intent = new Intent(GaleriActivity.this, AlbumStudyTourActivity.class);
         startActivity(intent);
     }
 
@@ -41,7 +41,7 @@ public class GaleriActivity extends AppCompatActivity {
         startActivity(intent);
     }
 
-    public void albumpmr(View view) {
+    public void albumnewnormal(View view) {
         Intent intent = new Intent(GaleriActivity.this, AlbumNewNormalActivity.class);
         startActivity(intent);
     }

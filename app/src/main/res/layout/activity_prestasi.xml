@@ -54,22 +54,11 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="JUARA 3 RENANG GAYA PUNGGUNG"
+                    android:text="Penerimaan piala kegiatan Lomba Tingkat 2 / LT-2 tahun 2022. Tergiat ke-3."
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="20dp"
-                    android:layout_marginRight="5dp"
-                    android:text="DAFTAR KEJUARAAN LOMBA BULAN JANUARI 2020: 1. EKA BAYU WICAKSONO Juara 3 renang 100m gaya punggung Juara 2 renang 50m gaya dada Juara 2 renang 100m gaya dada. Juara 2 renang 25m gaya dada. Pada Kejuaran renang terbuka HUT Piranha Madiun, 4-5 jan 2020 2.  Davin Abithia Akbar Maulana Kelas 7 B: Juara 3"
-                    android:textAlignment="center"
-                    android:textColor="@color/black"
-                    android:textSize="10sp" />
             </androidx.cardview.widget.CardView>
             <!--            penutup fasilitas1-->
 
@@ -109,22 +98,11 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="JUARA 3 RENANG GAYA PUNGGUNG"
+                    android:text="Piala Kejuaraan"
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="20dp"
-                    android:layout_marginRight="5dp"
-                    android:text="DAFTAR KEJUARAAN LOMBA BULAN JANUARI 2020: 1. EKA BAYU WICAKSONO Juara 3 renang 100m gaya punggung Juara 2 renang 50m gaya dada Juara 2 renang 100m gaya dada. Juara 2 renang 25m gaya dada. Pada Kejuaran renang terbuka HUT Piranha Madiun, 4-5 jan 2020 2.  Davin Abithia Akbar Maulana Kelas 7 B: Juara 3"
-                    android:textAlignment="center"
-                    android:textColor="@color/black"
-                    android:textSize="10sp" />
             </androidx.cardview.widget.CardView>
 <!--            penutup fasilitas2-->
 
@@ -164,22 +142,11 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="JUARA 3 RENANG GAYA PUNGGUNG"
+                    android:text="penerimaan piala kegiatan Lomba Tingkat 2 / LT-2 tahun 2022."
                     android:textColor="@color/black"
                     android:textSize="10sp"
                     android:textStyle="bold" />
 
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:layout_gravity="center_horizontal"
-                    android:layout_marginLeft="5dp"
-                    android:layout_marginTop="20dp"
-                    android:layout_marginRight="5dp"
-                    android:text="DAFTAR KEJUARAAN LOMBA BULAN JANUARI 2020: 1. EKA BAYU WICAKSONO Juara 3 renang 100m gaya punggung Juara 2 renang 50m gaya dada Juara 2 renang 100m gaya dada. Juara 2 renang 25m gaya dada. Pada Kejuaran renang terbuka HUT Piranha Madiun, 4-5 jan 2020 2.  Davin Abithia Akbar Maulana Kelas 7 B: Juara 3"
-                    android:textAlignment="center"
-                    android:textColor="@color/black"
-                    android:textSize="10sp" />
             </androidx.cardview.widget.CardView>
 <!--            penutup fasilitas3-->
         </GridLayout>

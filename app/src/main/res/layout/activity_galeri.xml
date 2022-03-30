@@ -27,19 +27,19 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/header1"/>
+                        android:src="@drawable/albumstudy1"/>
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/header2"/>
+                        android:src="@drawable/albumpramuka"/>
 
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:scaleType="fitXY"
-                        android:src="@drawable/header3"/>
+                        android:src="@drawable/albumnew"/>
 
                 </ViewFlipper>
 
@@ -58,7 +58,7 @@
                 tools:layout_editor_absoluteY="15dp">
                 <!--                            PEMBUKA MENU1-->
                 <androidx.cardview.widget.CardView
-                    android:onClick="albumosis"
+                    android:onClick="albumstudytour"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_rowWeight="1"
@@ -75,7 +75,7 @@
                         android:layout_height="match_parent"
                         android:layout_gravity="center"
                         android:orientation="horizontal"
-                        android:background="@drawable/backosis">
+                        android:background="#A8F33B02">
 
                         <ImageView
                             android:layout_width="100dp"
@@ -84,7 +84,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logoosis">
+                            android:src="@drawable/logostudy">
                         </ImageView>
 
                         <TextView
@@ -92,7 +92,7 @@
                             android:layout_height="wrap_content"
                             android:layout_gravity="center"
                             android:layout_marginLeft="50dp"
-                            android:text="ALBUM KEGIATAN EKSKUL">
+                            android:text="ALBUM STUDY TOUR">
 
                         </TextView>
                     </LinearLayout>
@@ -142,7 +142,7 @@
                 <!--                            PENUTUP MENU2-->
                 <!--                            PEMBUKA MENU3-->
                 <androidx.cardview.widget.CardView
-                    android:onClick="albumpmr"
+                    android:onClick="albumnewnormal"
                     android:layout_width="150dp"
                     android:layout_height="150dp"
                     android:layout_rowWeight="1"

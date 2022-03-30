@@ -4,13 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".AlbumEkskulActivity">
+    tools:context=".AlbumStudyTourActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:gravity="center"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:background="@drawable/bagstdy">
 
         <HorizontalScrollView
             android:layout_width="wrap_content"
@@ -31,7 +32,7 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/prestasi1" />
+                        android:src="@drawable/albumstudy" />
 
                 </LinearLayout>
 
@@ -49,13 +50,28 @@
                         android:layout_width="400dp"
                         android:layout_height="wrap_content"
                         android:adjustViewBounds="true"
-                        android:src="@drawable/prestasi2" />
+                        android:src="@drawable/albumstudy1" />
 
                 </LinearLayout>
 
                 <RelativeLayout
                     android:layout_width="7dp"
                     android:layout_height="match_parent" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/albumstudy2" />
+
+                </LinearLayout>
+
 
             </LinearLayout>
         </HorizontalScrollView>
@@ -80,7 +96,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="PERAYAAN HUT RI"
+                    android:text="ALBUM STUDY TOUR"
                     android:textColor="#000"
                     android:textSize="10sp"
                     android:textStyle="bold" />
@@ -92,7 +108,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="20dp"
                     android:layout_marginRight="5dp"
-                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "
+                    android:text="Kegiatan studytour adalah aktivitas di luar ruangan kelas yang memiliki tujuan untuk belajar mengenai proses suatu hal secara langsung. Aktivitas ini biasanya dilakukan oleh sekolah sekali dalam satu tahun. Selain menjadi saran belajar para siswa, kegiatan ini menjadi sebuah kegiatan berekreasi. Proses belajar dalam kegiatan ini berbeda karena para murid akan mengunjungi obyek secara langsung."
                     android:textAlignment="center"
                     android:textColor="#000"
                     android:textSize="10sp" />
