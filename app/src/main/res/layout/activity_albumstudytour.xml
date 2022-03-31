@@ -72,6 +72,42 @@
 
                 </LinearLayout>
 
+                <RelativeLayout
+                    android:layout_width="7dp"
+                    android:layout_height="match_parent" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/albumstudy3" />
+
+                </LinearLayout>
+
+                <RelativeLayout
+                    android:layout_width="7dp"
+                    android:layout_height="match_parent" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_width="400dp"
+                        android:layout_height="wrap_content"
+                        android:adjustViewBounds="true"
+                        android:src="@drawable/albumstudy4" />
+
+                </LinearLayout>
+
 
             </LinearLayout>
         </HorizontalScrollView>
@@ -96,7 +132,7 @@
                     android:layout_marginLeft="5dp"
                     android:layout_marginTop="5dp"
                     android:layout_marginRight="5dp"
-                    android:text="ALBUM STUDY TOUR"
+                    android:text="STUDY TOUR YOGYAKARTA 25-26 MARET 2022"
                     android:textColor="#000"
                     android:textSize="10sp"
                     android:textStyle="bold" />

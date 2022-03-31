@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".GaleriActivity">
+    tools:context=".GaleriActivity"
+    android:background="@drawable/baggal">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -14,6 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:orientation="vertical">
+
             <RelativeLayout
                 android:layout_width="match_parent"
                 android:layout_height="188dp">
@@ -126,7 +128,7 @@
                             android:layout_gravity="center"
                             android:layout_marginLeft="10dp"
                             android:layout_marginTop="10dp"
-                            android:src="@drawable/logopramuka">
+                            android:src="@drawable/scoutsmp2">
                         </ImageView>
 
                         <TextView

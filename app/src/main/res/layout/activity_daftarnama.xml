@@ -4,7 +4,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".DaftarnamaActivity">
+    tools:context=".DaftarnamaActivity"
+    android:background="@drawable/bagkel">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -18,11 +19,11 @@
                 android:layout_width="match_parent"
                 android:layout_height="188dp">
 
-                    <ImageView
-                        android:layout_width="match_parent"
-                        android:layout_height="wrap_content"
-                        android:scaleType="fitXY"
-                        android:src="@drawable/header1"/>
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:scaleType="fitXY"
+                    android:src="@drawable/albumkelas" />
 
             </RelativeLayout>
 
