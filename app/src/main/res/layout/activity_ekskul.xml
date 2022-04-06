@@ -170,7 +170,7 @@
                                     android:layout_height="match_parent"
                                     android:layout_gravity="center"
                                     android:orientation="horizontal"
-                                    android:background="#0EAAFD">
+                                    android:background="#F02A779F">
 
                                     <ImageView
                                         android:layout_width="100dp"
@@ -224,7 +224,7 @@
                                         android:layout_margin="10dp"
                                         android:layout_marginLeft="10dp"
                                         android:layout_marginTop="10dp"
-                                        android:src="@drawable/logofutsal2">
+                                        android:src="@drawable/logofutsal">
 
                                     </ImageView>
 
