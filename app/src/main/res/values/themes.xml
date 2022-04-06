@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Theme.SMPNEGERI2SURADADI" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#44E7FD</item>
-        <item name="colorPrimaryVariant">#69D0FF</item>
+        <item name="colorPrimary">#9544E7FD</item>
+        <item name="colorPrimaryVariant">#95D7F4</item>
         <item name="colorOnPrimary">@color/white</item>
         <!-- Secondary brand color. -->
         <item name="colorSecondary">@color/teal_200</item>
