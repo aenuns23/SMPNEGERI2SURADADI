@@ -28,8 +28,6 @@
                 android:columnOrderPreserved="false"
                 android:rowCount="2">
 
-
-
                 <androidx.cardview.widget.CardView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -676,7 +674,6 @@
                         </LinearLayout>
 
                     </LinearLayout>
-
 
                 </LinearLayout>
             </GridLayout>

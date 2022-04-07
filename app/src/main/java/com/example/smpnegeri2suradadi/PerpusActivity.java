@@ -15,7 +15,7 @@ public class PerpusActivity extends AppCompatActivity {
     SliderView sliderView;
     int[] images = {
             R.drawable.headerperpus,
-            R.drawable.headerperpus1,
+            R.drawable.headerper1,
             R.drawable.kurtilas,
             R.drawable.headerperpus2,
             R.drawable.headerperpus};
